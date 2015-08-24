@@ -40,7 +40,7 @@ public class MeuService extends Service {
                     }
 
                     if(isRunning){
-                        Log.i(TAG, "Servico Rodando." + i);
+                        Log.i(TAG, "Serviço Rodando." + i);
                     }
                 }
 
